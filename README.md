@@ -1,6 +1,6 @@
-# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex. No. 03   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 11/05/2025
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,8 +47,14 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### NAME : **KABELAN G K**
+### REG NO : **212224110027**
+## Rendered Output
+![alt text](<DUSTER v2.png>)
+## Fusion 360 
+![alt text](Fusion360.png)
+## Ultimate Cura
+![alt text](UltimateCura.png)
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
