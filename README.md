@@ -1,6 +1,6 @@
 # Ex. No. 03   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 11/05/2025
+### DATE: 
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,8 +47,8 @@
 
 ## Output:
 
-### NAME : **KABELAN G K**
-### REG NO : **212224110027**
+### NAME : OBELESH R
+### REG NO : 212224040228
 ## Rendered Output
 <img width="1072" height="420" alt="Screenshot 2025-11-24 115555" src="https://github.com/user-attachments/assets/b37788aa-cda4-4cf6-bb04-29cd490ccdad" />
 
