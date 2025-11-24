@@ -50,11 +50,15 @@
 ### NAME : **KABELAN G K**
 ### REG NO : **212224110027**
 ## Rendered Output
-![alt text](<DUSTER v2.png>)
+<img width="1072" height="420" alt="Screenshot 2025-11-24 115555" src="https://github.com/user-attachments/assets/b37788aa-cda4-4cf6-bb04-29cd490ccdad" />
+
 ## Fusion 360 
-![alt text](Fusion360.png)
+
+<img width="1921" height="1201" alt="Fusion360" src="https://github.com/user-attachments/assets/9df54a36-901e-431e-b304-92c663b1ba83" />
+
 ## Ultimate Cura
-![alt text](UltimateCura.png)
+
+<img width="1921" height="1201" alt="UltimateCura" src="https://github.com/user-attachments/assets/8640cdf9-d3f7-4bfb-9f5f-09851c462833" />
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
